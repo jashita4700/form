@@ -1,0 +1,32 @@
+body {
+  background-image: url("laptop.jpeg");
+  text-align: center;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+}
+h3 {
+  font-family: cursive;
+  color: white;
+}
+#btn {
+  background-color: green;
+  width: 550px;
+  height: 30px;
+}
+form {
+  text-align: left;
+  background-color: rgb(12, 26, 58);
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  padding: 15px;
+  color: white;
+}
+
+div {
+  display: block;
+  text-align: center;
+}
